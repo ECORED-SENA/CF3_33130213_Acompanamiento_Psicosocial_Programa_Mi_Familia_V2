@@ -10,10 +10,64 @@
     top: 51%
     right: 30%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+span.color-r
+  color: $color-secundario
+  font-weight: bold
+.contenedor-img
+  &__1
+    display: flex
+    position: relative
+    border-radius: 20px 0px 0px 0px
+    background-color: #ffefef
+
+    .contenido
+      @media (min-width: $bp-max-lg)
+        margin-right: 200px
+
+    img.position
+      position: absolute
+      margin-right: -2rem
+      width: 295px
+      right: 0
+      bottom: 0
+      transform: translateY(10%) translateX(20%)
+  &__2
+    display: flex
+    position: relative
+    border-radius: 20px 0px 0px 0px
+    background-color: #ffefef
+    .contenido
+      @media (min-width: $bp-max-lg)
+
+        margin-left: 200px
+    img.position
+      position: absolute
+      margin-left: -1rem
+      width: 295px
+      left: 0
+      bottom: 0
+      transform: translateY(10%) translateX(-20%)
+.bloque-texto-d.color-secundario:before
+  opacity: .3
+.contenedor-modificado
+  .cajon-b.color-acento-contenido:before
+    height: 100%
+    top: 0
+    left: 70%
+.tarjeta--amarilla
+  background-color: #fff3d1
+.acordion__activo
+  background-color: #fff9e6
+.acordion__accion__btn--b
+  background-color: #5840e2
+  border: 0
+  i
+    color: white
+.img-infografica__item__numero
+  color: white !important
