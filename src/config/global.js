@@ -8,11 +8,15 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/a1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/a2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/a3.png'),
       },
     ],
   },
@@ -31,7 +35,6 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo: 'El carácter inclusivo del programa Mi familia',
         desarrolloContenidos: true,
@@ -39,28 +42,24 @@ export default {
 
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
         numero: '2',
         titulo:
           'Aspectos diferenciales del acompañamiento psicosocial en familias con personas en situación de discapacidad',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '2.1',
             titulo:
               'La eliminación de barreras y los ajustes razonables para la atención inclusiva de las PcD y sus familias',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.2',
             titulo:
               'Elementos para el abordaje de la discapacidad desde el rol del profesional de acompañamiento familiar',
             hash: 't_2_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.3',
             titulo:
               'Abordaje de la discapacidad en la caracterización y el diagnóstico',
@@ -118,10 +117,10 @@ export default {
     {
       tema: 'El carácter inclusivo del programa Mi familia',
       referencia:
-        'ICBF. (2017). Guía orientadora para el acompañamiento a las familias de niños y niñas con discapacidad. Orientaciones técnicas para el talento humano. ICBF. ',
+        'ICBF. (2022). Guía orientadora para la inclusión de niñas, niños y mujeres gestantes con discapacidad en los servicios de atención de primera infancia del icbf. ',
       tipo: 'Guía',
       link:
-        'https://www.icbf.gov.co/sites/default/files/procesos/g1.mo12.pp_guia_orientadora_de_acompanamiento_a_familias_con_ninos_y_ninas_con_discapacidad_v1.pdf',
+        'https://www.icbf.gov.co/system/files/procesos/g33.pp_guia_orientadora_para_la_inclusion_de_nn_y_mujeres_gestantes_con_discapacidad_en_los_servicios_de_atencion_de_pi_del_icbf_v1.pdf',
     },
     {
       tema:

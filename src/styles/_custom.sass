@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 35%
+    right: 20%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 61%
+    right: 27%
 
 @keyframes float1
   0%
@@ -23,7 +28,7 @@ span.color-r
   &__1
     display: flex
     position: relative
-    border-radius: 20px 0px 0px 0px
+    border-radius: 40px 40px 0px 0px
     background-color: #ffefef
 
     .contenido
@@ -40,7 +45,7 @@ span.color-r
   &__2
     display: flex
     position: relative
-    border-radius: 20px 0px 0px 0px
+    border-radius: 40px 0px 40px 0px
     background-color: #ffefef
     .contenido
       @media (min-width: $bp-max-lg)
@@ -71,3 +76,42 @@ span.color-r
     color: white
 .img-infografica__item__numero
   color: white !important
+.bloque-texto-d
+  border-top: 0
+.img-infografica__card, .img-infografica-b__card
+  width: 500px
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  span
+    color: white !important
+.linea-tiempo-d .tarjeta
+  background-color: #B8CDDF
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #ffffff
+.bg-new
+  background-image: url('../assets/curso/temas/tema2/bg-new.svg')
+  background-repeat: no-repeat
+  background-size: cover
+  margin: 0 -3rem
+.info
+  &--1
+    position: relative
+    img
+      position: absolute
+      width: 79px
+      top: 50%
+      right: 0
+      transform-origin: center
+      transform: translateY(-50%)
+    p
+      margin-right: 60px
+  &--2
+    position: relative
+    img
+      position: absolute
+      width: 79px
+      top: 50%
+      left: 0
+      transform-origin: center
+      transform: translateY(-50%)
+    p
+      margin-left: 70px
