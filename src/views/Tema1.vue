@@ -18,8 +18,8 @@
     p.mb-5(data-aos='fade-right') Lo anterior para tener más contexto de lo que viven y reconocer sus necesidades, expectativas e intereses y así ajustar y orientar el acompañamiento psicosocial; tal como lo ratifica el siguiente video.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/U1rc8XF0UaU?si=brkGLP36tZriNSUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Enfoque diferencial e inclusivo
     p.mb-5 Los programas que atienden a la #[span.color-r población con discapacidad – PcD-] y a sus familias desde una perspectiva inclusiva, es decir, donde pueden recibir bienes y servicios en conjunto con el resto de la población, sin ser excluidos o confinados en servicios donde no tienen oportunidad de interactuar con el resto de la población o hacer presencia en la sociedad, responden a una visión sobre la discapacidad que deja de lado la perspectiva del castigo, el error o enfermedad y demandan el reconocimiento de la población con discapacidad como sujetos de derechos. 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -81,7 +81,7 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 1. 
       span Principios de la Convención sobre los Derechos de las PcD
-    .p-0(style="background-color: #fffaeb ")
+    .p-3(style="background-color: #fffaeb ")
       .row.justify-content-center.mb-5.align-items-center.g-0
         .col-lg-4
           .tarjeta.rounded-pill.info--1(style="background-color: #fcd9d9 ").p-4.mb-4.mb-lg-3
