@@ -99,17 +99,14 @@
       h2 2.3 Abordaje de la discapacidad en la caracterización y el diagnóstico
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")  
-        p.mb-0 La aplicación de los instrumentos como la ficha de caracterización socio familiar, el genograma, el ecomapa e instrumentos de medición de habilidades facilita el proceso de caracterización y diagnóstico de la familia y, por parte del PAF, la comprensión de la realidad de las mismas para así, proponer cursos de acción adecuados para el acompañamiento; a la vez que promueve en las familias el reconocimiento de su propia realidad e historia y la apropiación de su proceso de transformación.
-          br
-          br
-          |El proceso de caracterización y diagnóstico del programa Mi Familia incorpora aspectos diferenciales para familias con PcD. 
+        p.mb-0 El proceso de caracterización y diagnóstico del programa Mi Familia incorpora aspectos diferenciales para familias con PcD. 
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema2/10.png', alt='')     
     .row.justify-content-center.mb-5
       .col-lg-10
         .contenedor-img__2.p-3
           img.position.d-xl-block.d-none(src='@/assets/curso/temas/tema2/11.svg', alt='')
           .contenido.p-3
-            p.mb-0 En el desarrollo de este proceso es probable que el PAF requiera realizar ajustes razonables para garantizar la participación y la expresión de las opiniones por parte de las PcD; por ejemplo, si hay un adolescente con discapacidad visual en la familia se debe ajustar el mecanismo para diligenciar el instrumento de Disciplina Positiva, cambiando el diligenciamiento autónomo por un diligenciamiento donde el PAF lee las frases o preguntas, así como las opciones de respuesta, para que el adolescente pueda manifestar sus preferencias y que sus percepciones y opiniones queden recogidas en la caracterización y diagnóstico de la familia.
+            p.mb-0 En el desarrollo de este proceso es probable que el PAF requiera realizar ajustes razonables para garantizar la participación y la expresión de las opiniones por parte de las PcD.
     .mn.bg-new.p-5.py-5 
       .row.justify-content-center.mb-5
         .col-lg-10
