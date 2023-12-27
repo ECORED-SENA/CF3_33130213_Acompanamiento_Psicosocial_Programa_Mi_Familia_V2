@@ -10,7 +10,7 @@
       .row.justify-content-center
         .col-lg-7(data-aos="fade-right").mb-lg-0.mb-3
           .cajon-b.color-primario.p-3
-            p.mb-0 El enfoque diferencial e inclusivo del acompañamiento a la población con discapacidad y sus familias, como posibilidad para aportar a la garantía de sus derechos, se soportan en una serie de desarrollos normativos y conceptuales. 
+            p.mb-0 El enfoque diferencial e inclusivo del acompañamiento a la población con discapacidad y sus familias, como posibilidad para aportar a la garantía de sus derechos, se soporta en una serie de desarrollos normativos y conceptuales. 
               br
               br
               |En ese sentido, será muy importante para reconocer cómo los principios de la Convención sobre los Derechos de las Personas con discapacidad son puntos de referencia para la atención, así como el  analizar la información sobre las condiciones socioeconómicas y las barreras de acceso que afrontan las familias con personas con discapacidad que han participado en el programa. 
@@ -20,7 +20,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/U1rc8XF0UaU?si=brkGLP36tZriNSUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Enfoque diferencial e inclusivo
-    p.mb-5 Los programas que atienden a la #[span.color-r población con discapacidad – PcD-] y a sus familias desde una perspectiva inclusiva, es decir, donde pueden recibir bienes y servicios en conjunto con el resto de la población, sin ser excluidos o confinados en servicios donde no tienen oportunidad de interactuar con el resto de la población o hacer presencia en la sociedad, responden a una visión sobre la discapacidad que deja de lado la perspectiva del castigo, el error o enfermedad y demandan el reconocimiento de la población con discapacidad como sujetos de derechos. 
+    p.mb-5 Los programas que atienden a la #[span.color-r población con discapacidad – PcD-] y a sus familias, desde una perspectiva inclusiva, es decir, donde pueden recibir bienes y servicios en conjunto con el resto de la población, sin ser excluidos o confinados en servicios donde no tienen oportunidad de interactuar con el resto de la población o hacer presencia en la sociedad, responden a una visión sobre la discapacidad, que deja de lado la perspectiva del castigo, el error o enfermedad y demandan el reconocimiento de la población con discapacidad como sujetos de derechos. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .contenedor-img__1.p-3
@@ -28,7 +28,7 @@
             .bloque-texto-d.color-secundario.p-4
               .bloque-texto-d__texto.mb-2
                 i.fas.fa-quote-left
-                p El reconocimiento de la población con discapacidad como sujetos de derechos fue el resultado de movimientos sociales que reclamaron la plena garantía de los derechos humanos para toda la población independiente de sus condiciones o capacidades, oportunidades para el ejercicio de la autonomía y la vida independiente, así como la plena participación en las decisiones que los afecten; esto último popularizó el lema ‘nada sobre nosotros, sin nosotros. 
+                p El reconocimiento de la población con discapacidad como sujetos de derechos fue el resultado de movimientos sociales que reclamaron la plena garantía de los derechos humanos para toda la población independiente de sus condiciones o capacidades, oportunidades para el ejercicio de la autonomía y la vida independiente, así como la plena participación en las decisiones que los afecten; esto último popularizó el lema nada sobre nosotros, sin nosotros. 
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
                 .h6.mb-0 (Unicef & ICBF, 2020).
@@ -55,7 +55,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Teniendo en cuenta lo presentado e incorporando lo dispuesto en el Modelo de Enfoque Diferencial de Derechos del ICBF (#[b adoptado a través de la Resolución 1264 del 2 de marzo de 2017]), el diseño e implementación del programa Mi Familia adopta una perspectiva inclusiva para la atención de la población con discapacidad y sus familias lo cual significa que se benefician de un servicio de acompañamiento psicosocial en conjunto con otras familias, sin desconocer las brechas en participación y en el acceso a oferta social que enfrentan.
-    p.mb-5(data-aos='fade-right') Por lo tanto, incorpora los ajustes y elementos diferenciales para acelerar el cierre de estas brechas e incluye en el acompañamiento psicosocial un abordaje temático que responde a necesidades específicas de las familias que cuentan con un integrante con discapacidad, a la vez que, promueve espacios de encuentro e interacción de las familias con y sin PcD para avanzar en el reconocimiento y valoración de la diversidad humana y en la eliminación de barreras de participación en los entornos comunitarios.  
+    p.mb-5(data-aos='fade-right') Por lo tanto, incorpora los ajustes y elementos diferenciales para acelerar el cierre de estas brechas e incluye, en el acompañamiento psicosocial, un abordaje temático que responde a necesidades específicas de las familias que cuentan con un integrante con discapacidad; a la vez que promueve espacios de encuentro e interacción de las familias con y sin PcD para avanzar en el reconocimiento y valoración de la diversidad humana y en la eliminación de barreras de participación en los entornos comunitarios. 
     .d-inline-flex.p-3.mb-5(style="background-color: #f46464; border-radius: 0px 20px 20px 0px")
       h4.text-white.mb-0.me-4 Principios de la Convención sobre los derechos de las personas con discapacidad en el programa Mi familia
     .contenedor-modificado

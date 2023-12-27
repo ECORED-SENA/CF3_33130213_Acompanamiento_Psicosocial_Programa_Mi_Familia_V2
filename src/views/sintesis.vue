@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 En el siguiente diagrama se puede visualizar lo desarrollado en el componente.
+    p.mb-5 EI siguiente mapa muestra, de manera general, los aspectos más importantes y claves desarrollados en este componente formativo. Analícelo atentamente y haga su propia síntesis de lo estudiado:
 
     .row.justify-content-center
       .col-lg-10.mb-5

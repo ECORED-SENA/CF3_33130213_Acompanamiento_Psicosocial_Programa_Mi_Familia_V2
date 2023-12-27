@@ -44,7 +44,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          'Aspectos diferenciales del acompañamiento psicosocial en familias con personas en situación de discapacidad',
+          'Aspectos diferenciales del acompañamiento psicosocial en familias con personas con discapacidad',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -117,7 +117,7 @@ export default {
     {
       tema: 'El carácter inclusivo del programa Mi familia',
       referencia:
-        'ICBF. (2022). Guía orientadora para la inclusión de niñas, niños y mujeres gestantes con discapacidad en los servicios de atención de primera infancia del icbf. ',
+        'ICBF. (2022). Guía orientadora para la inclusión de niñas, niños y mujeres gestantes con discapacidad en los servicios de atención de primera infancia del ICBF. ',
       tipo: 'Guía',
       link:
         'https://www.icbf.gov.co/system/files/procesos/g33.pp_guia_orientadora_para_la_inclusion_de_nn_y_mujeres_gestantes_con_discapacidad_en_los_servicios_de_atencion_de_pi_del_icbf_v1.pdf',
@@ -131,7 +131,8 @@ export default {
         'https://www.icbf.gov.co/sites/default/files/procesos/md1.de_modelo_de_enfoque_diferencial_de_derechos_medd_v1.pdf',
     },
     {
-      tema: 'Ficha sociofamiliar',
+      tema:
+        '2.3. Abordaje de la discapacidad en la caracterización y el diagnóstico',
       referencia:
         'ICBF. (2019). Guía para el registro de las variables de discapacidad en los sistemas de información del ICBF. ICBF. ',
       tipo: 'Guía',
@@ -183,7 +184,8 @@ export default {
     {
       referencia:
         'ICBF. (2019). Guía para el registro de las variables de discapacidad en los sistemas de información del ICBF. ICBF.',
-      link: '',
+      link:
+        'https://www.icbf.gov.co/system/files/procesos/g1.md1_.de_guia_para_el_registro_de_variables_de_discapacidad_en_los_sistemas_de_informacion_del_icbf_v2.pdf ',
     },
     {
       referencia:
