@@ -166,7 +166,7 @@
               i.fas.fa-check-circle
               | El beneficiario recibe atención en terapia y/o rehabilitación. Se debe marcar cuando la PcD o su acompañante informan que recibe atención en terapia y/o rehabilitación. 
         div(numero="7" titulo="Nivel de dificultad de desempeño %")
-          p El último campo referente a discapacidad incluye seis subcampos no excluyentes en donde se debe consignar un valor en porcentaje. Esta información solo se debe diligenciar si la PcD cuenta con la certificación emitida por EPS en el marco de la Resolución 583 de 2018 y tiene 6 o más años y, se debe transcribir tal como aparece en dicha certificación.
+          p El último campo referente a discapacidad incluye seis subcampos no excluyentes en donde se debe consignar un valor en porcentaje. Esta información solo se debe diligenciar si la PcD cuenta con la certificación emitida por EPS en el marco de la Resolución 583 de 2018 y tiene 6 o más años y se debe transcribir tal como aparece en dicha certificación.
 
 
 

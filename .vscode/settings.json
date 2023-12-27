@@ -3,5 +3,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit"
   },
-  "eslint.run": "onSave"
+  "eslint.run": "onSave",
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": true
 }
